@@ -1,0 +1,1 @@
+//push pop isempty isfull peek function implementation using arrays
