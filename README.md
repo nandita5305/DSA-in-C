@@ -50,7 +50,7 @@ This repository contains a collection of **Data Structures and Algorithms (DSA)*
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/dsa-in-c.git
+   git clone https://github.com/nandita5305/dsa-in-c.git
    ```
 2. Navigate to the project directory:
    ```bash
